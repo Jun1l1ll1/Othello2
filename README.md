@@ -1,5 +1,5 @@
 # Othello website
-<p>Made with href=https://svelte.dev/>Svelte</a></p>
+<p>Made with <a href=https://svelte.dev/>Svelte</a></p>
 
 
 <p>A website where you can play othello</p>
