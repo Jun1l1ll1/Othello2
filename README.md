@@ -1,6 +1,6 @@
 # Othello website
 <p>Made with <a href=https://svelte.dev/>Svelte</a></p>
-
+<br/>
 
 ## What is it?
 <p>A website where you can play othello</p>
